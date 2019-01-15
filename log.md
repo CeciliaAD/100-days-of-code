@@ -21,3 +21,11 @@
 **Today's Progress**: Still working with HTML pages as yesterday.
 
 **Thoughts:** Tomorrow I will have more time, I hope to finish them and move on.
+
+
+### Day 4: January 14, 2019 
+
+
+**Today's Progress**: All day with CSS, Codeacademy.
+
+**Thoughts:** I fell I can't make the pages look good. I need to learn more.
