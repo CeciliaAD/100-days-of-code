@@ -29,3 +29,10 @@
 **Today's Progress**: All day with CSS, Codeacademy.
 
 **Thoughts:** I fell I can't make the pages look good. I need to learn more.
+
+### Day 5: January 15, 2019 
+
+
+**Today's Progress**: All day with CSS, Codeacademy again. I've checked some online test that I passed.
+
+**Thoughts:** Seams I'm learning.
